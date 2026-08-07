@@ -53,18 +53,6 @@
 
 </div>
 
----
-
-### 🐍 Contribuciones (snake animada)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunoFerreDev/BrunoFerreDev/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</div>
-
-> ℹ️ Para que la animación de la serpiente funcione, necesitás configurar la GitHub Action correspondiente en tu repositorio (te dejo el paso a paso más abajo 👇).
-
----
-
 ### 🌐 Redes y contacto
 
 <div align="center">
